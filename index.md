@@ -6,5 +6,7 @@
 
 <p>My first paragraph.</p>
 
+<img src="logo.png" alt="Logo">
+
 </body>
 </html>
